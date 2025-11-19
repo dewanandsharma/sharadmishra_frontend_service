@@ -1,11 +1,6 @@
 
-.navbar-brand img{
-    /* max-height: 90px;
-    transition: .5s; */
-    width: auto;
-    height: 200px;
-}
-
+/*** Spinner Start ***/
+/*** Spinner ***/
 #spinner {
     opacity: 0;
     visibility: hidden;
@@ -153,12 +148,12 @@
 }
 
 .navbar-light .navbar-brand img {
-    max-height: 66px;
+    max-height: 60px;
     transition: .5s;
 }
 
 .sticky-top.navbar-light .navbar-brand img {
-    max-height: 40px;
+    max-height: 45px;
 }
 
 .navbar .dropdown-toggle::after {
